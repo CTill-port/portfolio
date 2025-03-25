@@ -1,0 +1,1 @@
+Upload your 3D model images to the images/ folder and PDF drawings to the pdfs/ folder. Then edit index.html to add your projects.
